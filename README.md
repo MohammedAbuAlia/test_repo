@@ -1,3 +1,3 @@
 # test_repo
 ooooooooooooooooooooooooooooooooooooooo
-![car](0x0.webp)
+<img src="0x0.webp" alt="Italian Trulli">
